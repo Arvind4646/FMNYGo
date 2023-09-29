@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768011010249",
+    "project_id": "fmnygo-ac872",
+    "storage_bucket": "fmnygo-ac872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768011010249:android:a30d6d960b08d1a0048d18",
+        "android_client_info": {
+          "package_name": "com.fmnygo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768011010249-iov3kj2b6hrb5s59t5e6ng6j6981ntsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrNCP4yTnQNfJnjXaIJrDh7L96abtH8MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768011010249-iov3kj2b6hrb5s59t5e6ng6j6981ntsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
